@@ -28,28 +28,13 @@ I’m eager to deepen my skills, collaborate with others, and contribute to impa
 
 ---
 
-## ✨ Fun Fact
+### ✨ Fun Fact
 
-When I’m not debugging or designing experiments, you might find me rehearsing with the Columbia Pops Orchestra 🎻, coaching students in early math literacy 🧮, or decompressing over coffee and a good AI podcast ☕.
+When I’m not debugging or designing experiments, you might find me:
+- 🎻 Rehearsing with the Columbia Pops Orchestra  
+- 🧮 Coaching early math literacy at local elementary schools  
+- ☕ Decompressing over iced coffee and a good AI podcast  
 
+---
 
-
-
-
-
-
-
-<!--
-**sal2267/sal2267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Thanks for stopping by — feel free to connect or reach out if you're working on something cool!*
