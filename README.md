@@ -11,7 +11,8 @@ I’m a motivated undergrad passionate about applying **machine learning** and *
 
 Currently, I’m:
 - A **Break Through Tech AI Fellow** at Cornell Tech (selected from 3,000+ applicants)
-- Researching neural interface technologies at **Columbia’s Laboratory for Unconventional Electronics**
+- Researching degradation of battery materials as a **STROBE Research Scholar** at **Lawrence Berkeley National Lab’s NCEM** (National Center for Electron Microscopy)
+- A student researcher at **Columbia’s Laboratory for Unconventional Electronics**
 - Tutoring physics and math through Barnard’s peer support programs
 
 I’m eager to deepen my skills, collaborate with others, and contribute to impactful work in the fields of **AI for science**, **interpretable ML**, and **research engineering**.
