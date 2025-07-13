@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+📍 Albany, CA | 🎓 Physics & Computer Science @ Barnard College of Columbia University (Class of 2027)
+💡 Exploring the intersection of physics, machine learning, and real-world problem solving.
+
+
+
+
+
+
+
+
+
+
 <!--
 **sal2267/sal2267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
