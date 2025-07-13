@@ -34,7 +34,7 @@ I’m eager to deepen my skills, collaborate with others, and contribute to impa
 When I’m not debugging or designing experiments, you might find me:
 - 🎻 Rehearsing with the Columbia Pops Orchestra  
 - 🧮 Coaching early math literacy at local elementary schools  
-- ☕ Decompressing over iced coffee and a good AI podcast  
+- ☕ Decompressing over iced coffee and a good TV show  
 
 ---
 
