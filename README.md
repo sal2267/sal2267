@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Sophia 👋
 
 📍 Albany, CA | 🎓 Physics & Computer Science @ Barnard College of Columbia University (Class of 2027)
 💡 Exploring the intersection of physics, machine learning, and real-world problem solving.
